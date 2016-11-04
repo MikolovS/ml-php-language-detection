@@ -1,0 +1,274 @@
+[
+  {
+    "sentence": "Hello, do you know what time the movie is tonight?",
+    "language": "english"
+  },
+  {
+    "sentence": "I am calling to make reservations",
+    "language": "english"
+  },
+  {
+    "sentence": "I would like to know if it is at all possible to check in",
+    "language": "english"
+  },
+  {
+    "sentence": "What time does the swimming pool open?",
+    "language": "english"
+  },
+  {
+    "sentence": "Where is the games room?",
+    "language": "english"
+  },
+  {
+    "sentence": "We must call the police.",
+    "language": "english"
+  },
+  {
+    "sentence": "How many pupils are there in your school?",
+    "language": "english"
+  },
+  {
+    "sentence": "Twenty litres of unleaded, please.",
+    "language": "english"
+  },
+  {
+    "sentence": "Is it near here?",
+    "language": "english"
+  },
+  {
+    "sentence": "Do I have to change?",
+    "language": "english"
+  },
+  {
+    "sentence": "Which counter do I go to to change money?",
+    "language": "english"
+  },
+  {
+    "sentence": "I would like two postcards, please.",
+    "language": "english"
+  },
+  {
+    "sentence": "There was a big explosion.",
+    "language": "english"
+  },
+  {
+    "sentence": "Where is the television room?",
+    "language": "english"
+  },
+  {
+    "sentence": "Where's the nearest railway station?",
+    "language": "english"
+  },
+  {
+    "sentence": "The storms caused flooding.",
+    "language": "english"
+  },
+  {
+    "sentence": "Where is the duty free shop?",
+    "language": "english"
+  },
+  {
+    "sentence": "I witnessed it happening.",
+    "language": "english"
+  },
+  {
+    "sentence": "I would like two postcards, please.",
+    "language": "english"
+  },
+  {
+    "sentence": "How about going to the cinema?",
+    "language": "english"
+  },
+  {
+    "sentence": "Où est la boulangerie?",
+    "language": "french"
+  },
+  {
+    "sentence": "Je voudrais une boîte de chocolates.",
+    "language": "french"
+  },
+  {
+    "sentence": "Y a-t-il un autre hôtel près d'ici?",
+    "language": "french"
+  },
+  {
+    "sentence": "Vérifiez la batterie, s'il vous plaît.",
+    "language": "french"
+  },
+  {
+    "sentence": "La banque ouvre à quelle heure?",
+    "language": "french"
+  },
+  {
+    "sentence": "Est-ce que je peux l'écouter?",
+    "language": "french"
+  },
+  {
+    "sentence": "Vous devez faire une déclaration de perte.",
+    "language": "french"
+  },
+  {
+    "sentence": "Combien des élèves y a-t-il dans votre collège?",
+    "language": "french"
+  },
+  {
+    "sentence": "Est-ce qu-il ya un car qui va à l'aéroport?",
+    "language": "french"
+  },
+  {
+    "sentence": "Nous voudrions rester jusqu'à Dimanche prochain.",
+    "language": "french"
+  },
+  {
+    "sentence": "Je ne comprends pas.",
+    "language": "french"
+  },
+  {
+    "sentence": "Voici une ordonnance pour des comprimés.",
+    "language": "french"
+  },
+  {
+    "sentence": "Je n'ai qu'un billet de cinquante francs.",
+    "language": "french"
+  },
+  {
+    "sentence": "À quelle heure commence le dernière séance?",
+    "language": "french"
+  },
+  {
+    "sentence": "Faut-il changer?",
+    "language": "french"
+  },
+  {
+    "sentence": "Il n'avait pas la priorité.",
+    "language": "french"
+  },
+  {
+    "sentence": "Puis-je prendre les places à l'avance?",
+    "language": "french"
+  },
+  {
+    "sentence": "Elle a trente et un ans.",
+    "language": "french"
+  },
+  {
+    "sentence": "Pour aller à la pharmacie, s'il vous plaît?",
+    "language": "french"
+  },
+  {
+    "sentence": "Voulez-vous me peser ce colis, s'il vous plaît.",
+    "language": "french"
+  },
+  {
+    "sentence": "Ciao, ti va di andare al cinema?",
+    "language": "italian"
+  },
+  {
+    "sentence": "Mi sai dire quando aprono il negozio?",
+    "language": "italian"
+  },
+  {
+    "sentence": "Quando c'è l'ultimo autobus?",
+    "language": "italian"
+  },
+  {
+    "sentence": "Lo posso provare addosso?",
+    "language": "italian"
+  },
+  {
+    "sentence": "C'è una presa elettrica per il nostro caravan?",
+    "language": "italian"
+  },
+  {
+    "sentence": "Vorrei una scatola di cioccolatini.",
+    "language": "italian"
+  },
+  {
+    "sentence": "Non e' stata colpa mia.",
+    "language": "italian"
+  },
+  {
+    "sentence": "Sono molto scarso in fisica.",
+    "language": "italian"
+  },
+  {
+    "sentence": "Vorrei del vino bianco.",
+    "language": "italian"
+  },
+  {
+    "sentence": "Me lo puo' spiegare, per piacere.",
+    "language": "italian"
+  },
+  {
+    "sentence": "Vorrei chiamare a spese del ricevente.",
+    "language": "italian"
+  },
+  {
+    "sentence": "Ho perso il mio passaporto.",
+    "language": "italian"
+  },
+  {
+    "sentence": "Posso avere i biglietti del cinema per favore?",
+    "language": "italian"
+  },
+  {
+    "sentence": "Vorrei un pacchetto di biscotti.",
+    "language": "italian"
+  },
+  {
+    "sentence": "Quali materie studi (studia)?",
+    "language": "italian"
+  },
+  {
+    "sentence": "Quanto frequenti sono gli autobus?",
+    "language": "italian"
+  },
+  {
+    "sentence": "A che ora sara' la prossima raccolta?",
+    "language": "italian"
+  },
+  {
+    "sentence": "Vorrei prenotare un posto.",
+    "language": "italian"
+  },
+  {
+    "sentence": "Per favore, quanto costa spedire una lettera in Germania?",
+    "language": "italian"
+  },
+  {
+    "sentence": "Mio padre e' un programmatore.",
+    "language": "italian"
+  },
+  {
+    "sentence": "Wir müssen die Polizei anrufen",
+    "language": "german"
+  },
+  {
+    "sentence": "Wo ist die Toilette",
+    "language": "german"
+  },
+  {
+    "sentence": "Ich möchte wissen, ob es überhaupt möglich ist, einzuchecken",
+    "language": "german"
+  },
+  {
+    "sentence": "Wie viele Schüler gibt es in Ihrer Schule?",
+    "language": "german"
+  },
+  {
+    "sentence": "Welchen Zähler gehe ich, um Geld zu wechseln?",
+    "language": "german"
+  },
+  {
+    "sentence": "Bitte, wie viel es kostet einen Brief nach Amerika zu schicken?",
+    "language": "german"
+  },
+  {
+    "sentence": "Mein Vater ist ein Computerprogrammierer",
+    "language": "german"
+  },
+  {
+    "sentence": "Ich habe einen sehr großen Hund",
+    "language": "german"
+  }
+]

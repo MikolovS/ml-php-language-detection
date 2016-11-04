@@ -1,0 +1,13 @@
+{
+    "name": "wwwroth/ml-php-language-detection",
+    "description": "Detecting language from training",
+    "require": {
+        "php-ai/php-ml": "^0.2.0"
+    },
+    "authors": [
+        {
+            "name": "Phillip Roth",
+            "email": "philliproth@gmail.com"
+        }
+    ]
+}
